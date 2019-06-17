@@ -25,7 +25,7 @@ public class Gallina extends Ave {
     public void setCacareo (String cacareo) { this.cacareo = cacareo; }
     /**
      * 
-     * @return cacareo
+     * @return 
      */
     public String getCacareo () { return cacareo; }
     
